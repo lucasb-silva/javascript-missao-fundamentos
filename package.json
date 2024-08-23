@@ -1,0 +1,16 @@
+{
+  "name": "javascript-missao-fundamentos",
+  "version": "1.0.0",
+  "description": "Projeto da Missão de Aprendizado: Fundamentos de JavaScript",
+  "main": "index.js",
+  "scripts": {
+    "start": "node .",
+    "dev": "nodemon ."
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^3.1.4"
+  }
+}
